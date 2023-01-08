@@ -7,15 +7,15 @@ Ticker: Bartu Bozkurt<br>
 3 type fee and converted into BUSD to wallet
 
 ## BUY & SELL FEE VALUES
-marketingFeeOnBuy = 1;
-marketingFeeOnSell = 1;
-
-devFeeOnBuy = 1;
-devFeeOnSell = 1;
-
-nftPoolFeeOnBuy = 1;
-nftPoolFeeOnSell = 1;
-
+marketingFeeOnBuy = 1;<br>
+marketingFeeOnSell = 1;<br>
+-------------
+devFeeOnBuy = 1;<br>
+devFeeOnSell = 1;<br>
+-------------
+nftPoolFeeOnBuy = 1;<br>
+nftPoolFeeOnSell = 1;<br>
+-------------
 ## FEE WALLETS
 marketingWallet = 0xfee2879FAAb37E5662BD5E9D2f211cFc897C7340;<br>
 devWallet = 0xfee3d95BABd86Ca3a071233449F9A4ac32592cBC;<br>
