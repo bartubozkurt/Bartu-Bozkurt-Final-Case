@@ -1,8 +1,8 @@
 # Bartu-Bozkurt-Final-Case
 ## Details
-Token Name: Bartu Bozkurt
-Total Supply : 1000000 $Bartu Bozkurt
-Ticker: Bartu Bozkurt
+Token Name: Bartu Bozkurt<br>
+Total Supply : 1000000 $Bartu Bozkurt<br>
+Ticker: Bartu Bozkurt<br>
 
 3 type fee and converted into BUSD to wallet
 
