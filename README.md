@@ -16,7 +16,7 @@ devFeeOnSell = 1;<br>
 nftPoolFeeOnBuy = 1;<br>
 nftPoolFeeOnSell = 1;<br>
 
-Total BUY FEE: 3%
+Total BUY FEE: 3%<br>
 Total SELL FEE: 3%
 
 ## FEE WALLETS
