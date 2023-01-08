@@ -26,3 +26,18 @@ nftPoolWallet = 0x641C8AcaFE8Cf898a9F234B5a9DF9b55E099AB03;
 
 busdAddress = 0x8516Fc284AEEaa0374E66037BD2309349FF728eA;
 
+
+
+Function ✓
+
+Mapping ✓
+
+Array ✓
+
+Constructor ✓
+ 
+Require ✓
+
+Modifier ✓
+
+Event ✓
