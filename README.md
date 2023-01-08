@@ -16,7 +16,7 @@ devFeeOnSell = 1;
 nftPoolFeeOnBuy = 1;
 nftPoolFeeOnSell = 1;
 
-## mint address 
+## Mint address 
 address public newOwner = 0xfee1eDA9075244bdD34cf54516F04AE5803a4eC8;
 
 ## FEE WALLETS
